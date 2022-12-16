@@ -24,7 +24,7 @@ Therefore, there were 40 fingerprints taken at every measurement point, ten in e
  ## Dataset
 The RSSI dataset contains a folder for each building (#mini#, #gf#, #gg#). The complete data from the building are stored as an archive zip file. Additionally, a sample collected in a single POI (40 records) is given.
 
-# Structure
+### Structure
 - *building* building ID (#mini#, #gf#, #gg#)
 - *series* series ID (1 - learning series, 3 - testing series) 
 - *poi*	 measurement point ID
