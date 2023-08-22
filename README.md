@@ -36,3 +36,6 @@ The RSSI dataset contains a folder for each building (*mini*, *gf*, *gg*). The c
 - *direction* orientation of the measurement device according to the building axis (0-3)
 - *timestamp* timestamp of the measurement
 - *AP_i* reading from the ith access points (NA for lack of signal)
+
+## Acknowledgement
+The LOKKOM project was supported by the National Centre for Research and Development, grant No PBS2/B3/24/2014, application No 208921.
