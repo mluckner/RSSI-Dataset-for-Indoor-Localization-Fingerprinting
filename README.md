@@ -19,7 +19,7 @@ Therefore, there were 40 fingerprints taken at every measurement point, ten in e
 
  ## Publication
  
-M. Luckner, S. Sowik and P. Brida, "Selection of Signal Sources Influence at Indoor Positioning System," in IEEE Transactions on Wireless Communications, doi: 10.1109/TWC.2023.3275537.
+M. Luckner, S. Sowik and P. Brida, "Selection of Signal Sources Influence at Indoor Positioning System," in IEEE Transactions on Wireless Communications, vol. 23, no. 1, pp. 45-57, Jan. 2024, doi: 10.1109/TWC.2023.3275537. 
  
  ## Dataset
 The RSSI dataset contains a folder for each building (*mini*, *gf*, *gg*). The complete data from the building are stored as an archive zip file. Additionally, a sample collected in a single POI (40 records) is given.
